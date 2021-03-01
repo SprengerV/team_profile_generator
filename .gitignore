@@ -1,6 +1,9 @@
 # Homework assignment Files
 02-Homework/
 
+# Generated pages
+pages/*
+
 # Logs
 logs
 *.log
