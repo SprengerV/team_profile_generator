@@ -44,14 +44,12 @@ This profile generator is a CLI that produces an HTML page based on the user's i
 
 
 
-
-
 <!-- GETTING STARTED -->
 ### Installation
 
 Clone the repository. Then in the terminal, navigate to your local copy of the repository and use the command 'npm install'. This will install all of the necessary packages. Once completed use the command 'npm index' to start the app.
 
-
+[Here is a link to a video demo of the installation and use of the app.](https://drive.google.com/file/d/1yOuEGCHCVRsjQQnDE4nYV_FRaW7DTW5z/view)
 
 <!-- USAGE EXAMPLES -->
 ## Usage

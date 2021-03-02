@@ -1,8 +1,9 @@
 # Homework assignment Files
 02-Homework/
 
-# Generated pages
+# Generated pages except one for assignment
 pages/*
+!DethTeam.html
 
 # Logs
 logs
