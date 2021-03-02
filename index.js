@@ -12,7 +12,7 @@ const start = () => {
                 name: 'what',
                 type: 'list',
                 message: 'What would you like to do?',
-                choices: ['Generate a webpage for a new team.', 'Generate a webpage for a team I\'ve already saved']
+                choices: ['Generate a webpage for a new team.', 'Generate a webpage for a team I\'ve already saved.']
             }
         ])
         .then((ans) => {
